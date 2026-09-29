@@ -1,0 +1,6 @@
+langchain-core
+langchain-openai
+openai
+azure-search-documents
+azure-core
+python-dotenv
